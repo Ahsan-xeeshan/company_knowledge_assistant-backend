@@ -1,0 +1,7 @@
+Our Services
+
+We provide website development using React, Next.js and FastAPI.
+
+We also provide REST API development and AI integration services.
+
+Our AI integration services include LLM integration, AI assistants and RAG applications.
